@@ -1,4 +1,4 @@
-# ESP32-BLUETOOTH-WIFI-JAMER-SCANNER
+# ESP32-BLUETOOTH-WIFI-JAMMER-SCANNER
 A portable, multi-protocol wireless research tool built on the ESP32. nRFBox combines 2.4 GHz ISM band analysis, Bluetooth Low Energy tools, and Wi-Fi utilities into a single handheld device with an OLED display, icon-based menu, and NeoPixel status indicator.
 
 > **For educational and authorized security research use only. Always obtain permission before testing on any network or device you do not own.**
